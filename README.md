@@ -1,16 +1,21 @@
-## Hi there 👋
+## Boas vindas almeu perfil 
 
-<!--
-**guilhermepalagani/guilhermepalagani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e guilherme palagani 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Sou estudante da escola baol 
+
+-Do cursos online do alura 
+
+-Estou aprendendo sobre java Sbript
+
+-Utilizar este espaço para compartilhar meu desenvolvimento no curso 
+
+##Voce entar em contato comigo 
+
+00001105321654sp@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/0bEioByAZlkAAAAM/te-amo-palmeiras-palmeiras.gif)
+
 -->
